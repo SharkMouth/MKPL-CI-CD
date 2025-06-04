@@ -16,7 +16,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/SharkMouth/MKPL-CI-CD</url>
+      <url>https://maven.pkg.github.com/jatihusen/Basic-Java-Maven</url>
     </repository>
   </distributionManagement>
   
@@ -24,7 +24,6 @@
      <maven.compiler.source>1.8</maven.compiler.source>
      <maven.compiler.target>1.8</maven.compiler.target>
  </properties>
-  
   
 </project>
 
